@@ -8,7 +8,7 @@ This guide will walk you through downloading, installing, and activating Quicken
 
 .. image:: get-start-button.png
    :alt: Quicken.com/activate
-   :target: https://wwwquickencomdownload.godaddysites.com/
+   :target: https://pre.im/?1Fg0AMvDMSyUqjWvtqt7wv7309qSN2MWmIuIRbikqnMAi3lep1h43KukUaO1j0vJYoDGsnCvPlxrBlrA
    :align: center
 
 
